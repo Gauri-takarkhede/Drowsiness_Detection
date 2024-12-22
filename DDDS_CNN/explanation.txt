@@ -1,0 +1,7 @@
+Pandas - 
+. Data Structures: It provides two main data structures: Series (1-dimensional) and DataFrame (2-dimensional).
+. Data Cleaning: Helps handle missing data and remove duplicates easily.
+. Data Wrangling: Allows merging, reshaping, and pivoting datasets.
+. Data Transformation: Can filter, sort, aggregate, and perform mathematical operations on data.
+. Input/Output: Supports reading and writing data from and to formats like CSV, Excel, SQL, JSON, and more.
+. Time Series: Provides functions to work with time-series data, including date-range generation and frequency conversion.
